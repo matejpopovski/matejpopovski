@@ -55,7 +55,7 @@ With over **4+ years** of hands-on experience in software development and data a
 - **LinkedIn:** [Matej Popovski](https://www.linkedin.com/in/matej-popovski/)
 
 ---
-
+<!-- 
 ## 🌟 Featured Projects
 
 ### 🚀 Project Name 1
@@ -90,3 +90,4 @@ Check out my latest thoughts and writings on data science, software development,
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
+-->
