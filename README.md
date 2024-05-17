@@ -1,4 +1,4 @@
-# 👨‍💻 Matej Popovski's GitHub Playground
+# 👨‍💻 Matej Popovski's GitHub Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matej%20Popovski-blue)](https://www.linkedin.com/in/matej-popovski/)
 [![Email](https://img.shields.io/badge/Email-matej.popovski%40gmail.com-red)](mailto:matej.popovski@gmail.com)
