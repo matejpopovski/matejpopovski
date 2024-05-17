@@ -1,19 +1,92 @@
-<h1 align="center">Mr. Matej Popovski</h1>
-<h3 align="center">Double Major in Computer Science and Data Science at University of Wisconsin Madison. 4+ years of experience in Software Development and Data Analytics.</h3>
+# 👨‍💻 Matej Popovski's GitHub Playground
 
-- 📫 How to reach me **matej.popovski@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matej%20Popovski-blue)](https://www.linkedin.com/in/matej-popovski/)
+[![Email](https://img.shields.io/badge/Email-matej.popovski%40gmail.com-red)](mailto:matej.popovski@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matej-popovski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matej-popovski/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 📚 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matejpopovski&show_icons=true&locale=en&layout=compact" alt="matejpopovski" /></p>
+### 🎓 Education
+I am a passionate double major in **Computer Science** and **Data Science** at the **University of Wisconsin-Madison**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matejpopovski&show_icons=true&locale=en" alt="matejpopovski" /></p>
+### 💼 Experience
+With over **4+ years** of hands-on experience in software development and data analytics, I thrive on turning complex problems into elegant solutions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matejpopovski&" alt="matejpopovski" /></p>
+---
+
+## 🛠️ My Tech Toolbox
+
+### Programming Languages:
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+
+### Frameworks & Libraries:
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+
+### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%23FF1E56.svg?style=flat&logo=snowflake&logoColor=white)
+
+### Tools & Platforms:
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=power-bi&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
+
+### Design & Media:
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23005A9C.svg?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23005A9C.svg?style=flat&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 🔗 Connect with Me
+
+- **GitHub:** [matejpopovski](https://github.com/matejpopovski)
+- **Email:** [matej.popovski@gmail.com](mailto:matej.popovski@gmail.com)
+- **LinkedIn:** [Matej Popovski](https://www.linkedin.com/in/matej-popovski/)
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Project Name 1
+_A brief description of what this project is about._
+
+**Technologies used:** C++, Python, SQL
+
+### 📊 Project Name 2
+_A brief description of what this project is about._
+
+**Technologies used:** Java, R, AWS
+
+---
+
+## 📝 Blog & Articles
+
+Check out my latest thoughts and writings on data science, software development, and more on my [Blog](#).
+
+---
+
+## 🤔 Fun Facts
+
+- I love exploring the intersections of technology and creativity.
+- Always up for a challenge and ready to learn new things.
+- Passionate about using data to tell compelling stories.
+
+---
+
+> "Strive not to be a success, but rather to be of value." – Albert Einstein
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
