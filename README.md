@@ -26,49 +26,6 @@ With over **4+ years** of hands-on experience in software development and data a
 ## 🛠️ My Tech Toolbox
 
 ### Programming Languages:
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,py,r" />
-
-### Frameworks & Libraries:
-<img src="https://skillicons.dev/icons?i=pandas,numpy,pytorch" />
-<!-- 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
--->
-
-### Databases:
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,snowflake" />
-<!-- 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-%23FF1E56.svg?style=flat&logo=snowflake&logoColor=white)
--->
-
-### Tools & Platforms:
-<img src="https://skillicons.dev/icons?i=aws,gitlab,github,powerbi,bash" />
-<!-- 
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=power-bi&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
--->
-
-### Design & Media:
-<img src="https://skillicons.dev/icons?i=premiere,photoshop" />
-<!-- 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23005A9C.svg?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23005A9C.svg?style=flat&logo=adobe-photoshop&logoColor=white)
--->
-
-
-
-
-
-
-## 🛠️ My Tech Toolbox
-
-### Programming Languages:
 
 <img src="https://skillicons.dev/icons?i=cpp,c,java,js,py,r" />
 <!-- 
