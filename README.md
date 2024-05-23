@@ -12,7 +12,7 @@
 
 ### 🎓 Education
 I am a passionate double major in **Computer Science** and **Data Science** at the **University of Wisconsin-Madison**.
-![University of Wisconsin-Madison](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/UW-Madison_logo.svg/1200px-UW-Madison_logo.svg.png)
+![University of Wisconsin-Madison]([https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/UW-Madison_logo.svg/1200px-UW-Madison_logo.svg.png](https://brand.wisc.edu/content/uploads/2023/09/vert-w-crest-logo-web-digital-color.png))
 
 ### 💼 Experience
 With over **4+ years** of hands-on experience in software development and data analytics, I thrive on turning complex problems into elegant solutions.
