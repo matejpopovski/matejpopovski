@@ -22,13 +22,15 @@ With over **4+ years** of hands-on experience in software development and data a
 
 ### Programming Languages:
 
-<img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r" />
+<img src="https://skillicons.dev/icons?i=cpp, c, java, js, py, r" />
+<!-- 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+-->
 
 ### Frameworks & Libraries:
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -36,9 +38,7 @@ With over **4+ years** of hands-on experience in software development and data a
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 
 ### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-%23FF1E56.svg?style=flat&logo=snowflake&logoColor=white)
+<img src="https://skillicons.dev/icons?i= mysql, sqlite, snowflake" />
 
 ### Tools & Platforms:
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
