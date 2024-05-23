@@ -11,6 +11,8 @@
 ## About Me
 
 ### 🎓 Education
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFNphWf5pgNG9YTd9so4NUD73KcUMFuRgGYd_ZQ8S6XTKc6l2g-5CUrslKoELs2w3-lY&usqp=CAU" alt="Education" width="20" height="20"/> Education
+
 I am a passionate double major in **Computer Science** and **Data Science** at the **University of Wisconsin-Madison**.
 <img src="https://brand.wisc.edu/content/uploads/2023/09/vert-w-crest-logo-web-digital-color.png" alt="University of Wisconsin-Madison" width="150" />
 
