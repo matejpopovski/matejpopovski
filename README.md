@@ -38,7 +38,9 @@ With over **4+ years** of hands-on experience in software development and data a
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 
 ### Databases:
-<img src="https://skillicons.dev/icons?i= mysql,sqlite,snowflake" />
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%23FF1E56.svg?style=flat&logo=snowflake&logoColor=white)
 
 ### Tools & Platforms:
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
