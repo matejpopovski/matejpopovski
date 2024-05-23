@@ -12,7 +12,8 @@
 
 ### 🎓 Education
 I am a passionate double major in **Computer Science** and **Data Science** at the **University of Wisconsin-Madison**.
-![University of Wisconsin-Madison](https://brand.wisc.edu/content/uploads/2023/09/vert-w-crest-logo-web-digital-color.png)
+<img src="https://brand.wisc.edu/content/uploads/2023/09/vert-w-crest-logo-web-digital-color.png" alt="University of Wisconsin-Madison" width="150" />
+
 
 
 ### 💼 Experience
