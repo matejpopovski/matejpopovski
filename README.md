@@ -10,12 +10,12 @@
 
 ## About Me
 
-### 🎓 Education
 ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFNphWf5pgNG9YTd9so4NUD73KcUMFuRgGYd_ZQ8S6XTKc6l2g-5CUrslKoELs2w3-lY&usqp=CAU" alt="Education" width="20" height="20"/> Education
 
 I am a passionate double major in **Computer Science** and **Data Science** at the **University of Wisconsin-Madison**.
+<!-- 
 <img src="https://brand.wisc.edu/content/uploads/2023/09/vert-w-crest-logo-web-digital-color.png" alt="University of Wisconsin-Madison" width="150" />
-
+-->
 
 
 ### 💼 Experience
@@ -67,13 +67,6 @@ With over **4+ years** of hands-on experience in software development and data a
 - **LinkedIn:** [Matej Popovski](https://www.linkedin.com/in/matej-popovski/)
 
 ---
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
 
 
 <!-- 
