@@ -1,5 +1,5 @@
 # Matej Popovski's GitHub Portfolio
-
+![MATRIXGIF](https://github.com/matejpopovski/matejpopovski/assets/116771786/76336aea-4df4-46ec-84ee-7492cae77c55)
 ![4p9p4o](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F683984262135912604%2F&psig=AOvVaw1ZmnoAz8xHBKOWg3kuOEA1&ust=1716554776586000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDt1YDno4YDFQAAAAAdAAAAABAQ)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matej%20Popovski-blue)](https://www.linkedin.com/in/matej-popovski/)
