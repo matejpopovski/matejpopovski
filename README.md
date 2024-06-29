@@ -97,7 +97,7 @@ Check out my latest thoughts and writings on data science, software development,
 - Passionate about using data to tell compelling stories.
   
 ---
-
+ 
 > "Strive not to be a success, but rather to be of value." – Albert Einstein
 
 ---
