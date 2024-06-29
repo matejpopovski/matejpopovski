@@ -27,7 +27,7 @@ With over **4+ years** of hands-on experience in software development and data a
 
 ### Programming Languages:
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,py,r,sql" />
+<img src="https://skillicons.dev/icons?i=cpp,c,sql,java,js,py,r" />
 <!-- 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
