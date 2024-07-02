@@ -90,7 +90,7 @@ Check out my latest thoughts and writings on data science, software development,
 
 ---
 
-## 🤔 Fun Facts
+## 🤔 Fun Facts 
 
 - I love exploring the intersections of technology and creativity.
 - Always up for a challenge and ready to learn new things.
