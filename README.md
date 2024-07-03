@@ -53,6 +53,8 @@ With over **4+ years** of hands-on experience in software development and data a
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=power-bi&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Matillion](https://img.shields.io/badge/Matillion-7ED321?style=flat&logo=matillion&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-F74300?style=flat&logo=dbt&logoColor=white)
 
 ### Design & Media:
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23005A9C.svg?style=flat&logo=adobe-premiere-pro&logoColor=white)
