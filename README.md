@@ -55,6 +55,8 @@ With over **4+ years** of hands-on experience in software development and data a
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Matillion](https://img.shields.io/badge/Matillion-7ED321?style=flat&logo=matillion&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-F74300?style=flat&logo=dbt&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
 
 ### Design & Media:
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23005A9C.svg?style=flat&logo=adobe-premiere-pro&logoColor=white)
