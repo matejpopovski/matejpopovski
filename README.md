@@ -91,7 +91,7 @@ _A brief description of what this project is about._
 
 ## 📝 Blog & Articles
 
-Check out my latest thoughts and writings on data science, software development, and more on my [Blog](#).
+Check out my latest thoughts and writings on data science, software development, and more on my [Blog](#). 
 
 ---
 
