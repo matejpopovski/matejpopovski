@@ -10,7 +10,8 @@
 
 ## About Me
 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFNphWf5pgNG9YTd9so4NUD73KcUMFuRgGYd_ZQ8S6XTKc6l2g-5CUrslKoELs2w3-lY&usqp=CAU" alt="Education" width="20" height="25" style="vertical-align: middle; margin-bottom: -5px;"/> Education
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFNphWf5pgNG9YTd9so4NUD73KcUMFuRgGYd_ZQ8S6XTKc6l2g-5CUrslKoELs2w3-lY&usqp=CAU" alt="Education" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/> Education
+
 
 
 I am a passionate double major in **Computer Science** and **Data Science** at the **University of Wisconsin-Madison**.
