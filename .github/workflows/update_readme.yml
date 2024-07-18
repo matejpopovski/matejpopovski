@@ -32,3 +32,18 @@ jobs:
           git add README.md
           git commit -m 'Update README with latest Chess.com stats'
           git push
+            - name: Debug Git Status
+        run: git status
+
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git status
+          git add README.md
+          git status
+          git commit -m 'Update README with latest Chess.com stats' || echo "No changes to commit"
+          git push || echo "Push failed"
+
