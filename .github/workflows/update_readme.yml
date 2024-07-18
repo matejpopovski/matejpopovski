@@ -47,3 +47,4 @@ jobs:
           git commit -m 'Update README with latest Chess.com stats' || echo "No changes to commit"
           git push || echo "Push failed"
 
+# git doesnt work
