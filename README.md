@@ -60,3 +60,7 @@ With over **4+ years** of hands-on experience in software development and data a
 - **Wins:** 34
 - **Losses:** 32
 - **Draws:** 6
+
+![Build Status](https://img.shields.io/github/workflow/status/matejpopovski/matejpopovski/CI)
+![License](https://img.shields.io/github/license/matejpopovski/matejpopovski)
+![GitHub Issues](https://img.shields.io/github/issues/matejpopovski/matejpopovski)
