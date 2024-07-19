@@ -52,7 +52,7 @@ With over **4+ years** of hands-on experience in software development and data a
 
 
 
-## Live Chess.com Stats for MatejPopovski:
+## Live Chess.com Stats for MatejPopovski ♞:
 
 ### Rapid
 - **Rating:** 1631
