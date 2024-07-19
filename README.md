@@ -51,22 +51,14 @@ With over **4+ years** of hands-on experience in software development and data a
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23005A9C.svg?style=flat&logo=adobe-photoshop&logoColor=white)
 
 
-## Live Chess.com Stats for MatejPopovski:
 
-### Rapid
-- **Rating:** 1631
-- **Wins:** 505
-- **Losses:** 455
-- **Draws:** 37
+# Chess Live Stats for MatejPopovski:
 
-### Blitz
-- **Rating:** 1132
-- **Wins:** 167
-- **Losses:** 135
-- **Draws:** 9
+**Chess Stats:**
 
-### Bullet
-- **Rating:** 1253
-- **Wins:** 34
-- **Losses:** 32
-- **Draws:** 6
+- Games played: [games_played]
+- Rating: [rating]
+
+**Last updated:** [last_updated]
+
+  
