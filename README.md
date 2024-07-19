@@ -41,7 +41,7 @@ With over **4+ years** of hands-on experience in software development and data a
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23005A9C.svg?style=flat&logo=adobe-photoshop&logoColor=white)
 
 
-## Chess.com Stats for MatejPopovski
+## Live Chess.com Stats for MatejPopovski:
 
 ### Rapid
 - **Rating:** 1631
