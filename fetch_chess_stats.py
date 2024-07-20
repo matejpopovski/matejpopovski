@@ -23,7 +23,7 @@ def format_stats(stats):
     bullet = stats.get("chess_bullet", {})
 
     markdown = f"""
-## Chess.com Stats for MatejPopovski
+## ♞ Live Chess.com Stats for MatejPopovski:
 
 ### Rapid
 - **Rating:** {rapid.get("last", {}).get("rating", "N/A")}
