@@ -1,6 +1,6 @@
-<!-- 
+
 # Matej Popovski's GitHub Portfolio
--->
+
 ![giphy](https://github.com/matejpopovski/matejpopovski/assets/116771786/f51ffbda-06d2-4b75-aec8-4d8c54965291)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matej%20Popovski-blue)](https://www.linkedin.com/in/matej-popovski/)
@@ -51,7 +51,7 @@ With over **4+ years** of hands-on experience in software development and data a
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23005A9C.svg?style=flat&logo=adobe-photoshop&logoColor=white)
 
 
-
+<!-- 
 ## Live Chess.com Stats for MatejPopovski ♞:
 
 ### Rapid
@@ -72,34 +72,7 @@ With over **4+ years** of hands-on experience in software development and data a
 - **Losses:** 32
 - **Draws:** 6
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-->
 
 ## Chess.com Stats for MatejPopovski
 
