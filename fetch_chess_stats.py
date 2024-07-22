@@ -1,4 +1,5 @@
 import requests
+from datetime import datetime
 
 # Fetch Chess.com stats
 headers = {
@@ -22,6 +23,8 @@ def format_stats(stats):
     blitz = stats.get("chess_blitz", {})
     bullet = stats.get("chess_bullet", {})
 
+    last_updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+
     markdown = f"""
 ## ♞ Live Chess.com Stats for MatejPopovski
 
@@ -42,6 +45,8 @@ def format_stats(stats):
 - **Wins:** {bullet.get("record", {}).get("win", "N/A")}
 - **Losses:** {bullet.get("record", {}).get("loss", "N/A")}
 - **Draws:** {bullet.get("record", {}).get("draw", "N/A")}
+
+_Last updated: {last_updated}_
 """
     return markdown
 
@@ -52,8 +57,16 @@ formatted_stats = format_stats(stats)
 with open("README.md", "r") as file:
     readme_content = file.read()
 
-# Insert formatted stats (customize the placement)
-updated_readme = readme_content.split("## Chess.com Stats")[0] + formatted_stats
+# Define the start and end markers for the stats section
+start_marker = "## ♞ Live Chess.com Stats for MatejPopovski"
+end_marker = "_Last updated:"
+
+# Split the README content into three parts: before, during, and after the stats section
+before_stats = readme_content.split(start_marker)[0]
+after_stats = readme_content.split(end_marker)[-1]
+
+# Create the updated README content
+updated_readme = before_stats + formatted_stats + "\n" + after_stats
 
 # Write the updated README content
 with open("README.md", "w") as file:
