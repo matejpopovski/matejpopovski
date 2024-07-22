@@ -61,12 +61,13 @@ with open("README.md", "r") as file:
 start_marker = "## ♞ Live Chess.com Stats for MatejPopovski"
 end_marker = "_Last updated:"
 
-# Split the README content into three parts: before, during, and after the stats section
-before_stats = readme_content.split(start_marker)[0]
-after_stats = readme_content.split(end_marker)[-1]
-
-# Create the updated README content
-updated_readme = before_stats + formatted_stats + "\n" + after_stats
+# Check if the markers exist in the readme
+if start_marker in readme_content and end_marker in readme_content:
+    before_stats = readme_content.split(start_marker)[0]
+    after_stats = readme_content.split(end_marker)[-1].split("\n", 1)[-1]
+    updated_readme = before_stats + formatted_stats + after_stats
+else:
+    updated_readme = readme_content + "\n" + formatted_stats
 
 # Write the updated README content
 with open("README.md", "w") as file:
