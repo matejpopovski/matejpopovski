@@ -28,25 +28,14 @@ def format_stats(stats):
     markdown = f"""
 ## ♞ Live Chess.com Stats for MatejPopovski
 
-### Rapid
-- **Rating:** {rapid.get("last", {}).get("rating", "N/A")}
-- **Wins:** {rapid.get("record", {}).get("win", "N/A")}
-- **Losses:** {rapid.get("record", {}).get("loss", "N/A")}
-- **Draws:** {rapid.get("record", {}).get("draw", "N/A")}
-
-### Blitz
-- **Rating:** {blitz.get("last", {}).get("rating", "N/A")}
-- **Wins:** {blitz.get("record", {}).get("win", "N/A")}
-- **Losses:** {blitz.get("record", {}).get("loss", "N/A")}
-- **Draws:** {blitz.get("record", {}).get("draw", "N/A")}
-
-### Bullet
-- **Rating:** {bullet.get("last", {}).get("rating", "N/A")}
-- **Wins:** {bullet.get("record", {}).get("win", "N/A")}
-- **Losses:** {bullet.get("record", {}).get("loss", "N/A")}
-- **Draws:** {bullet.get("record", {}).get("draw", "N/A")}
+| Game Mode | Rating | Wins | Losses | Draws |
+|-----------|--------|------|--------|-------|
+| **Rapid** | {rapid.get("last", {}).get("rating", "N/A")} | {rapid.get("record", {}).get("win", "N/A")} | {rapid.get("record", {}).get("loss", "N/A")} | {rapid.get("record", {}).get("draw", "N/A")} |
+| **Blitz** | {blitz.get("last", {}).get("rating", "N/A")} | {blitz.get("record", {}).get("win", "N/A")} | {blitz.get("record", {}).get("loss", "N/A")} | {blitz.get("record", {}).get("draw", "N/A")} |
+| **Bullet** | {bullet.get("last", {}).get("rating", "N/A")} | {bullet.get("record", {}).get("win", "N/A")} | {bullet.get("record", {}).get("loss", "N/A")} | {bullet.get("record", {}).get("draw", "N/A")} |
 
 _Last updated: {last_updated}_
+
 """
     return markdown
 
