@@ -70,15 +70,17 @@ With over **4+ years** of hands-on experience in software development and data a
 
 
 
+
 ## ♞ Live Chess.com Stats for MatejPopovski
 
 | Game Mode | Rating | Wins | Losses | Draws |
 |-----------|--------|------|--------|-------|
-| **Rapid** | 1566 | 532 | 490 | 40 |
+| **Rapid** | 1560 | 533 | 492 | 40 |
 | **Blitz** | 1175 | 173 | 137 | 9 |
 | **Bullet** | 1292 | 38 | 35 | 7 |
 
-_Last updated: 2024-08-12 23:08:37 UTC_
+_Last updated: 2024-08-13 00:37:01 UTC_
+
 
 
 
