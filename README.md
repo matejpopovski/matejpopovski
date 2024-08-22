@@ -25,7 +25,6 @@ With over **4+ years** of hands-on experience in software development and data a
 <img src="https://skillicons.dev/icons?i=py,java,mysql,cpp,c,js,r,postgres" />
 
 ### Frameworks:
-### Frameworks & Libraries:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
