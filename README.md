@@ -22,9 +22,19 @@ With over **4+ years** of hands-on experience in software development and data a
 
 ### Programming Languages:
 
-<img src="https://skillicons.dev/icons?i=py,java,mysql,cpp,c,js,r,postgres,dax" />
+<img src="https://skillicons.dev/icons?i=py,java,mysql,cpp,c,js,r,postgres" />
 
+### Frameworks:
 ### Frameworks & Libraries:
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23d71.svg?style=flat&logo=sqlalchemy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-%230064ff.svg?style=flat&logo=swift&logoColor=white)
+
+### Libraries:
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
