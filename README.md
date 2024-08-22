@@ -38,13 +38,11 @@ With over **4+ years** of hands-on experience in software development and data a
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 
-### Databases:
+### Databases and Analytics:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-%23FF1E56.svg?style=flat&logo=snowflake&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
-
-### Tools & Platforms:
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
