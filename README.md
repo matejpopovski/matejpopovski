@@ -22,7 +22,7 @@ With over **4+ years** of hands-on experience in software development and data a
 
 ### Programming Languages:
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,py,r,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=py,java,mysql,cpp,c,js,r,postgres" />
 
 ### Frameworks & Libraries:
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
