@@ -34,6 +34,8 @@ With over **4+ years** of hands-on experience in software development and data a
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-%23363636.svg?style=flat&logo=python&logoColor=white)
+
 
 ### Databases and Analytics:
 ![Snowflake](https://img.shields.io/badge/Snowflake-%23FF1E56.svg?style=flat&logo=snowflake&logoColor=white)
