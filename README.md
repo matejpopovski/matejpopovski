@@ -33,7 +33,7 @@ With over **4+ years** of hands-on experience in software development and data a
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%230064ff.svg?style=flat&logo=swift&logoColor=white)
 
-### Libraries:
+### Py Libraries:
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
