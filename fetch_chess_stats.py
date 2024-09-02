@@ -39,7 +39,7 @@ def format_stats(chess_stats):
     last_updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
     markdown = f"""
-## ♞ Live Chess.com Stats for MatejPopovski
+## <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/> Live Chess.com Stats for MatejPopovski
 
 | Game Mode | Rating | Wins | Losses | Draws |
 |-----------|--------|------|--------|-------|
@@ -47,7 +47,7 @@ def format_stats(chess_stats):
 | **Blitz** | {blitz.get("last", {}).get("rating", "N/A")} | {blitz.get("record", {}).get("win", "N/A")} | {blitz.get("record", {}).get("loss", "N/A")} | {blitz.get("record", {}).get("draw", "N/A")} |
 | **Bullet** | {bullet.get("last", {}).get("rating", "N/A")} | {bullet.get("record", {}).get("win", "N/A")} | {bullet.get("record", {}).get("loss", "N/A")} | {bullet.get("record", {}).get("draw", "N/A")} |
 
-## ⚔️ LeetCode Stats for MatejPopovski
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Education" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski
 
 - **Total Problems Solved:** {total_solved}
 - **World Ranking:** {world_ranking}
