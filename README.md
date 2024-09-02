@@ -6,17 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-matej.popovski%40gmail.com-red)](mailto:matej.popovski@gmail.com)
 
 ---
-
-## About Me
-
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFNphWf5pgNG9YTd9so4NUD73KcUMFuRgGYd_ZQ8S6XTKc6l2g-5CUrslKoELs2w3-lY&usqp=CAU" alt="Education" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/> Education
-
-I am a passionate double major in **Computer Science** and **Data Science** at the **University of Wisconsin-Madison**.
-
-### 💼 Experience
-With over **4+ years** of hands-on experience in software development and data analytics, I thrive on turning complex problems into elegant solutions.
-
----
 ### Programming Languages:
 
 <img src="https://skillicons.dev/icons?i=py,java,mysql,cpp,c,js,r,postgres,bash" />
