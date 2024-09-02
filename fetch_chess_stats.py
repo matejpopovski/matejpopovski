@@ -65,17 +65,17 @@ with open("README.md", "r") as file:
     readme_content = file.read()
 
 # Define the start and end markers for the stats section
-start_marker = "## ♞ Live Chess.com Stats for MatejPopovski"
+start_marker = "## <img src=\"https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png\" alt=\"LeetCode\" width=\"20\" height=\"25\" style=\"vertical-align: middle; margin-bottom: -10px;\"/>  Live LeetCode Stats for MatejPopovski"
 end_marker = "_Last updated:"
 
 # Check if the markers exist in the readme
 if start_marker in readme_content and end_marker in readme_content:
-    # Split the README content to extract sections before and after the stats
+    # Extract the parts before and after the stats section
     before_stats = readme_content.split(start_marker)[0]
     after_stats = readme_content.split(end_marker)[-1].split("\n", 1)[-1]
     
     # Combine the sections with the newly formatted stats
-    updated_readme = before_stats + formatted_stats + after_stats
+    updated_readme = before_stats + start_marker + formatted_stats.split(start_marker)[-1].split(end_marker)[0] + after_stats
 else:
     # If the markers are not found, append the stats at the end
     updated_readme = readme_content + "\n" + formatted_stats
