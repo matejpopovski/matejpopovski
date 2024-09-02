@@ -1,9 +1,9 @@
-name: Update README with Chess.com Stats
+name: Update README with Chess.com and LeetCode Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
   update-readme:
@@ -21,8 +21,8 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Update README with latest Chess.com stats
-        run: python fetch_chess_stats.py
+      - name: Update README with latest Chess.com and LeetCode stats
+        run: python fetch_chess_stats.py  # Runs the updated Python script
 
       - name: Configure Git
         run: |
@@ -34,5 +34,5 @@ jobs:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git add README.md
-          git commit -m "Update README with latest Chess.com stats"
+          git commit -m "Update README with latest Chess.com and LeetCode stats"
           git push "https://${{ secrets.PAT_TOKEN }}@github.com/matejpopovski/matejpopovski.git"
