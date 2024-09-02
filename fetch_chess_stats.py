@@ -39,11 +39,14 @@ def format_stats(chess_stats):
     last_updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
     markdown = f"""
+<!-- START LEETCODE STATS -->
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski
 
 - **Total Problems Solved:** {total_solved}
 - **World Ranking:** {world_ranking}
-    
+<!-- END LEETCODE STATS -->
+
+<!-- START CHESS.COM STATS -->
 ## <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" width="17" height="22" style="vertical-align: middle; margin-bottom: -10px;"/> Live Chess.com Stats for MatejPopovski
 
 | Game Mode | Rating | Wins | Losses | Draws |
@@ -53,7 +56,7 @@ def format_stats(chess_stats):
 | **Bullet** | {bullet.get("last", {}).get("rating", "N/A")} | {bullet.get("record", {}).get("win", "N/A")} | {bullet.get("record", {}).get("loss", "N/A")} | {bullet.get("record", {}).get("draw", "N/A")} |
 
 _Last updated: {last_updated}_
-
+<!-- END CHESS.COM STATS -->
 """
     return markdown
 
@@ -65,19 +68,21 @@ with open("README.md", "r") as file:
     readme_content = file.read()
 
 # Define the start and end markers for the stats section
-start_marker = "## <img src=\"https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png\" alt=\"LeetCode\" width=\"20\" height=\"25\" style=\"vertical-align: middle; margin-bottom: -10px;\"/>  Live LeetCode Stats for MatejPopovski"
-end_marker = "_Last updated:"
+start_marker = "<!-- START LEETCODE STATS -->"
+end_marker = "<!-- END CHESS.COM STATS -->"
 
-# Check if the markers exist in the readme
-if start_marker in readme_content and end_marker in readme_content:
-    # Extract the parts before and after the stats section
-    before_stats = readme_content.split(start_marker)[0]
-    after_stats = readme_content.split(end_marker)[-1].split("\n", 1)[-1]
-    
-    # Combine the sections with the newly formatted stats
-    updated_readme = before_stats + start_marker + formatted_stats.split(start_marker)[-1].split(end_marker)[0] + after_stats
+# Find the start and end indices for replacement
+start_index = readme_content.find(start_marker)
+end_index = readme_content.find(end_marker)
+
+# Replace or append stats section
+if start_index != -1 and end_index != -1:
+    # Replace existing section
+    updated_readme = (readme_content[:start_index] +
+                      formatted_stats +
+                      readme_content[end_index + len(end_marker):])
 else:
-    # If the markers are not found, append the stats at the end
+    # Append if markers are not found
     updated_readme = readme_content + "\n" + formatted_stats
 
 # Write the updated README content
