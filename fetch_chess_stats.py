@@ -39,6 +39,11 @@ def format_stats(chess_stats):
     last_updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
     markdown = f"""
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Education" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski
+
+- **Total Problems Solved:** {total_solved}
+- **World Ranking:** {world_ranking}
+    
 ## <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" width="17" height="22" style="vertical-align: middle; margin-bottom: -10px;"/> Live Chess.com Stats for MatejPopovski
 
 | Game Mode | Rating | Wins | Losses | Draws |
@@ -46,11 +51,6 @@ def format_stats(chess_stats):
 | **Rapid** | {rapid.get("last", {}).get("rating", "N/A")} | {rapid.get("record", {}).get("win", "N/A")} | {rapid.get("record", {}).get("loss", "N/A")} | {rapid.get("record", {}).get("draw", "N/A")} |
 | **Blitz** | {blitz.get("last", {}).get("rating", "N/A")} | {blitz.get("record", {}).get("win", "N/A")} | {blitz.get("record", {}).get("loss", "N/A")} | {blitz.get("record", {}).get("draw", "N/A")} |
 | **Bullet** | {bullet.get("last", {}).get("rating", "N/A")} | {bullet.get("record", {}).get("win", "N/A")} | {bullet.get("record", {}).get("loss", "N/A")} | {bullet.get("record", {}).get("draw", "N/A")} |
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Education" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski
-
-- **Total Problems Solved:** {total_solved}
-- **World Ranking:** {world_ranking}
 
 _Last updated: {last_updated}_
 
@@ -65,7 +65,7 @@ with open("README.md", "r") as file:
     readme_content = file.read()
 
 # Define the start and end markers for the stats section
-start_marker = "## ♞ Live Chess.com Stats for MatejPopovski"
+start_marker = '## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Education" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski' 
 end_marker = "_Last updated:"
 
 # Check if the markers exist in the readme
