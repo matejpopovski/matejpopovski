@@ -39,7 +39,7 @@ def format_stats(chess_stats):
     last_updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
     markdown = f"""
-## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Education" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski
 
 - **Total Problems Solved:** {total_solved}
 - **World Ranking:** {world_ranking}
@@ -64,16 +64,18 @@ formatted_stats = format_stats(chess_stats)
 with open("README.md", "r") as file:
     readme_content = file.read()
 
-# Define the start and end markers for the stats section
-start_marker = '## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Education" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski' 
+# Define the start and end markers for both LeetCode and Chess.com stats sections
+leetcode_start_marker = '## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski'
+chess_start_marker = '## <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" width="17" height="22" style="vertical-align: middle; margin-bottom: -10px;"/> Live Chess.com Stats for MatejPopovski'
 end_marker = "_Last updated:"
 
-# Check if the markers exist in the readme
-if start_marker in readme_content and end_marker in readme_content:
-    before_stats = readme_content.split(start_marker)[0]
-    after_stats = readme_content.split(end_marker)[-1].split("\n", 1)[-1]
-    updated_readme = before_stats + formatted_stats + after_stats
+# Replace the existing stats if they exist
+if leetcode_start_marker in readme_content and chess_start_marker in readme_content:
+    before_leetcode = readme_content.split(leetcode_start_marker)[0]
+    after_chess_stats = readme_content.split(end_marker)[-1].split("\n", 1)[-1]
+    updated_readme = before_leetcode + formatted_stats + after_chess_stats
 else:
+    # Append if not found
     updated_readme = readme_content + "\n" + formatted_stats
 
 # Write the updated README content
