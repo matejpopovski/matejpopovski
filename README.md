@@ -45,7 +45,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23005A9C.svg?style=flat&logo=adobe-photoshop&logoColor=white)
 
 
-## <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" width="50" height="55" style="vertical-align: middle; margin-bottom: -10px;"/> Live Chess.com Stats for MatejPopovski
+## <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/> Live Chess.com Stats for MatejPopovski
 
 | Game Mode | Rating | Wins | Losses | Draws |
 |-----------|--------|------|--------|-------|
