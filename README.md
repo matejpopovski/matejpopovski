@@ -53,7 +53,7 @@
 | **Blitz** | 1162 | 180 | 146 | 9 |
 | **Bullet** | 1241 | 39 | 39 | 7 |
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Education" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/> LeetCode Stats for MatejPopovski
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Education" width="17" height="22" style="vertical-align: middle; margin-bottom: -10px;"/> LeetCode Stats for MatejPopovski
 
 - **Total Problems Solved:** 32
 - **World Ranking:** 2061234
