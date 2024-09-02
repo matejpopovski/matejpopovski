@@ -64,23 +64,18 @@ formatted_stats = format_stats(chess_stats)
 with open("README.md", "r") as file:
     readme_content = file.read()
 
-# Define the start and end markers for both sections
-start_marker = '## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode"'
-end_marker = '_Last updated:'
+# Define the start and end markers for the stats section
+start_marker = "## ♞ Live Chess.com Stats for MatejPopovski"
+end_marker = "_Last updated:"
 
-# Find the positions of the start and end markers
-start_index = readme_content.find(start_marker)
-end_index = readme_content.find(end_marker)
-
-# If both markers are found, replace the stats in between
-if start_index != -1 and end_index != -1:
-    # Find the position of the newline after the end marker
-    after_end_index = readme_content.find("\n", end_index)
-    if after_end_index == -1:
-        after_end_index = len(readme_content)
-
-    # Replace the content between start and end markers
-    updated_readme = readme_content[:start_index] + formatted_stats + readme_content[after_end_index:]
+# Check if the markers exist in the readme
+if start_marker in readme_content and end_marker in readme_content:
+    # Split the README content to extract sections before and after the stats
+    before_stats = readme_content.split(start_marker)[0]
+    after_stats = readme_content.split(end_marker)[-1].split("\n", 1)[-1]
+    
+    # Combine the sections with the newly formatted stats
+    updated_readme = before_stats + formatted_stats + after_stats
 else:
     # If the markers are not found, append the stats at the end
     updated_readme = readme_content + "\n" + formatted_stats
