@@ -3,7 +3,6 @@
 ![giphy](https://github.com/matejpopovski/matejpopovski/assets/116771786/f51ffbda-06d2-4b75-aec8-4d8c54965291)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matej%20Popovski-blue)](https://www.linkedin.com/in/matej-popovski/)
-
 [![Email](https://img.shields.io/badge/Email-matej.popovski%40gmail.com-red)](mailto:matej.popovski@gmail.com)
 
 ---
