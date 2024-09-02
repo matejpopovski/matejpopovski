@@ -551,6 +551,7 @@
 
 
 
+
 ## ♞ Live Chess.com Stats for MatejPopovski
 
 | Game Mode | Rating | Wins | Losses | Draws |
@@ -559,7 +560,13 @@
 | **Blitz** | 1162 | 180 | 146 | 9 |
 | **Bullet** | 1241 | 39 | 39 | 7 |
 
-_Last updated: 2024-09-02 00:39:04 UTC_
+## ⚔️ LeetCode Stats for MatejPopovski
+
+- **Total Problems Solved:** 32
+- **World Ranking:** 2061234
+
+_Last updated: 2024-09-02 02:05:55 UTC_
+
 
 
 
