@@ -5,23 +5,36 @@ from datetime import datetime
 headers = {
     'User-Agent': 'contact matej.popovski@gmail.com if there is a problem!'
 }
-response = requests.get("https://api.chess.com/pub/player/MatejPopovski/stats", headers=headers)
+chess_response = requests.get("https://api.chess.com/pub/player/MatejPopovski/stats", headers=headers)
 
-# Check if the request was successful
-if response.status_code == 200:
-    stats = response.json()
+# Check if the Chess.com request was successful
+if chess_response.status_code == 200:
+    chess_stats = chess_response.json()
 else:
-    print("Failed to fetch stats")
-    stats = None
+    print("Failed to fetch Chess.com stats")
+    chess_stats = None
+
+# Fetch LeetCode stats
+leetcode_response = requests.get("https://leetcode-stats-api.herokuapp.com/matejpopovski")
+
+# Check if the LeetCode request was successful
+if leetcode_response.status_code == 200:
+    leetcode_stats = leetcode_response.json()
+    total_solved = leetcode_stats.get("totalSolved", "N/A")
+    world_ranking = leetcode_stats.get("ranking", "N/A")
+else:
+    print("Failed to fetch LeetCode stats")
+    total_solved = "N/A"
+    world_ranking = "N/A"
 
 # Format stats in Markdown
-def format_stats(stats):
-    if not stats:
+def format_stats(chess_stats):
+    if not chess_stats:
         return "Unable to fetch Chess.com stats."
 
-    rapid = stats.get("chess_rapid", {})
-    blitz = stats.get("chess_blitz", {})
-    bullet = stats.get("chess_bullet", {})
+    rapid = chess_stats.get("chess_rapid", {})
+    blitz = chess_stats.get("chess_blitz", {})
+    bullet = chess_stats.get("chess_bullet", {})
 
     last_updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
@@ -34,13 +47,18 @@ def format_stats(stats):
 | **Blitz** | {blitz.get("last", {}).get("rating", "N/A")} | {blitz.get("record", {}).get("win", "N/A")} | {blitz.get("record", {}).get("loss", "N/A")} | {blitz.get("record", {}).get("draw", "N/A")} |
 | **Bullet** | {bullet.get("last", {}).get("rating", "N/A")} | {bullet.get("record", {}).get("win", "N/A")} | {bullet.get("record", {}).get("loss", "N/A")} | {bullet.get("record", {}).get("draw", "N/A")} |
 
+## ⚔️ LeetCode Stats for MatejPopovski
+
+- **Total Problems Solved:** {total_solved}
+- **World Ranking:** {world_ranking}
+
 _Last updated: {last_updated}_
 
 """
     return markdown
 
 # Get formatted stats
-formatted_stats = format_stats(stats)
+formatted_stats = format_stats(chess_stats)
 
 # Read the existing README content
 with open("README.md", "r") as file:
