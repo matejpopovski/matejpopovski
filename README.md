@@ -53,10 +53,11 @@
 
 
 
+
 <!-- START LEETCODE STATS -->
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski
 
-- **Total Problems Solved:** 37
+- **Total Problems Solved:** 38
 - **World Ranking:** 1994180
 <!-- END LEETCODE STATS -->
 
@@ -69,8 +70,9 @@
 | **Blitz** | 1171 | 182 | 147 | 9 |
 | **Bullet** | 1241 | 39 | 39 | 7 |
 
-_Last updated: 2024-09-03 06:21:46 UTC_
+_Last updated: 2024-09-03 07:08:02 UTC_
 <!-- END CHESS.COM STATS -->
+
 
 
 
