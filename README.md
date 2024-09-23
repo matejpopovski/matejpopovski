@@ -978,6 +978,7 @@
 
 
 
+
 <!-- START LEETCODE STATS -->
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski
 
@@ -990,12 +991,13 @@
 
 | Game Mode | Rating | Wins | Losses | Draws |
 |-----------|--------|------|--------|-------|
-| **Rapid** | 1708 | 601 | 538 | 49 |
+| **Rapid** | 1717 | 602 | 538 | 49 |
 | **Blitz** | 1149 | 195 | 162 | 12 |
 | **Bullet** | 1245 | 41 | 41 | 7 |
 
-_Last updated: 2024-09-23 06:12:27 UTC_
+_Last updated: 2024-09-23 06:23:58 UTC_
 <!-- END CHESS.COM STATS -->
+
 
 
 
