@@ -2,7 +2,7 @@
     
 ![giphy](https://github.com/matejpopovski/matejpopovski/assets/116771786/f51ffbda-06d2-4b75-aec8-4d8c54965291)
    
-<p>
+<p> 
   <a href="https://github.com/matejpopovski" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/matej-popovski/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://matejpopovski.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%234CAF50.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
