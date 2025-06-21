@@ -1,5 +1,5 @@
 # Matej Popovski's GitHub Portfolio  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFNphWf5pgNG9YTd9so4NUD73KcUMFuRgGYd_ZQ8S6XTKc6l2g-5CUrslKoELs2w3-lY&usqp=CAU" alt="Education" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>      
- 
+   
 ![giphy](https://github.com/matejpopovski/matejpopovski/assets/116771786/f51ffbda-06d2-4b75-aec8-4d8c54965291)
 
 <p> 
@@ -12777,26 +12777,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- START LEETCODE STATS -->
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" height="25" style="vertical-align: middle; margin-bottom: -10px;"/>  Live LeetCode Stats for MatejPopovski
 
 - **Total Problems Solved:** 73
-- **World Ranking:** 1536286
+- **World Ranking:** 1535184
 <!-- END LEETCODE STATS -->
 
 <!-- START CHESS.COM STATS -->
@@ -12808,23 +12793,8 @@
 | **Blitz** | 1144 | 207 | 175 | 12 |
 | **Bullet** | 1225 | 41 | 42 | 7 |
 
-_Last updated: 2025-06-21 13:19:51 UTC_
+_Last updated: 2025-06-21 05:17:49 UTC_
 <!-- END CHESS.COM STATS -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
