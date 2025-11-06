@@ -2,7 +2,6 @@
 
            
             
-            
 ![giphy](https://github.com/matejpopovski/matejpopovski/assets/116771786/f51ffbda-06d2-4b75-aec8-4d8c54965291)
 
 <p> 
