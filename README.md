@@ -101,17 +101,7 @@
 - **World Ranking:** 1701849
 <!-- END LEETCODE STATS -->
 
-<!-- START CHESS.COM STATS -->
-## <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" width="17" height="22" style="vertical-align: middle; margin-bottom: -10px;"/> Live Chess.com Stats for MatejPopovski
 
-| Game Mode | Rating | Wins | Losses | Draws |
-|-----------|--------|------|--------|-------|
-| **Rapid** | 1877 | 665 | 582 | 58 |
-| **Blitz** | 1144 | 207 | 175 | 12 |
-| **Bullet** | 1225 | 41 | 42 | 7 |
-
-_Last updated: 2025-12-03 06:17:01 UTC_
-<!-- END CHESS.COM STATS -->
 
 
 
