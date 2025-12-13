@@ -1041,3 +1041,4 @@ Unable to fetch Chess.com stats.
 Unable to fetch Chess.com stats.
 Unable to fetch Chess.com stats.
 Unable to fetch Chess.com stats.
+Unable to fetch Chess.com stats.
