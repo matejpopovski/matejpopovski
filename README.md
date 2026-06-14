@@ -7,3 +7,4 @@
   <a href="https://matejpopovski.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%234CAF50.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:matej.popovski@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
