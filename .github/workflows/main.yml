@@ -2,8 +2,11 @@ name: Update README with Chess.com and LeetCode Stats
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every day at midnight UTC
+    - cron: '0 * * * *'  # Runs every hour
   workflow_dispatch:  # Allows manual triggering of the workflow
+
+permissions:
+  contents: write  # lets the built-in GITHUB_TOKEN push the README update
 
 jobs:
   update-readme:
@@ -11,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
@@ -30,9 +33,8 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Commit and push changes
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git add README.md
+          git diff --cached --quiet && exit 0  # nothing changed, nothing to push
           git commit -m "Update README with latest Chess.com and LeetCode stats"
-          git push "https://${{ secrets.PAT_TOKEN }}@github.com/matejpopovski/matejpopovski.git"
+          git push
